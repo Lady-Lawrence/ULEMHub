@@ -1,0 +1,157 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #white;
+
+}
+
+
+.top-header{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+form{
+    display: flex;
+
+}
+
+
+input[type=text] {
+    background-color: hsl(0 0% 100%);
+    border-color: hsl(0 0% 69%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px 10px 1px 12px;
+    margin: 10px;
+    width: 592px;
+    height: 44px;
+
+}
+
+input[type=submit] {
+    background-color: #e6740f;
+    border-color: hsl(0 0% 69%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 8px 15px;
+    margin: 10px;
+    height: 40px;
+
+}
+
+.sign-button{
+
+    border-radius:25px;
+    border-width: 2px;
+    border-color: #811212;
+    background-color: white;
+    font-size:13px;
+    padding: 3px 14px 5px;
+    text-align:center;
+
+}
+
+
+.main-nav{
+    display: flex;
+    justify-content: space-evenly;
+    list-style:none;
+    font-size: 14px;
+    align-items: center;
+    width: 900px;
+
+}
+
+/*start of the main*/
+
+.main-section{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-section-content h2{
+    font-size: 20px;
+    margin:20px ;
+
+
+}
+.main-section img{
+    border-radius: 13px;
+    margin: 20px;
+    padding:5px;
+
+}
+
+.main-section-content {
+    background-color: rgba(218, 221, 218, 0.6);
+    border-radius: 13px;
+    width:390px;
+    align-self:center;
+    height: 282px;
+    margin:-26px;
+    text-align: center;
+
+}
+
+.right-sidebar{
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    padding:12px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    font-size: 13px;
+
+}
+
+.right-sidebar button{
+
+    align-content: center;
+    background-color: #ea5c0e;
+    border-radius: 12px;
+    margin: 12px;
+    padding: 9px;
+
+}
+
+
+.right-sidebar ol{
+    display: flex;
+    line-height: 30px;
+
+}
+
+
+
+.footer{
+    display:flex;
+    flex-direction: row;
+
+}
+
+.photo-gallery{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1px;
+    margin-right: 20px;
+}
+
+.photo-gallery img{
+
+    width: 180px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+
+
