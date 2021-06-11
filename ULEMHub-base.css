@@ -38,14 +38,14 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
 rel="stylesheet">
 
-/* font family 'Roboto' with text wgt of 100 300 500 700 use * link below
+/* font family 'Lato' with text wgt of 100 300 500 700 use * link below
 and include in html header section*/
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;700&display=swap" rel="stylesheet"
 
 /*the font family: below css property below
-font-family: 'Roboto', sans-serif;*/
+font-family: 'Lato', sans-serif;*/
 
 
 /* Component library */
@@ -97,15 +97,35 @@ input[type=submit] {
 
 /* nav bar */
 
+
 .main-nav{
     display: flex;
     justify-content: space-evenly;
     list-style:none;
     font-size: 14px;
+    font-family: 'lato', sans-serif;
+    font-weight: 800;
     align-items: center;
     width: 900px;
+    font-family: 'lato', sans-serif;
 
 }
+    
+    /* nav ba change color and hover effects */
+    
+    nav a{
+        color: black;
+
+    }
+
+    
+    
+    a:hover {
+        color: #8f0b20;
+        text-decoration: underline;
+        text-decoration-style: solid;
+        text-decoration-thickness: 5px;
+    }
 
 
 
