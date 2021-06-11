@@ -14,8 +14,9 @@
 
 
 
-/* color varablies */
-:root {
+/* color varablies 
+
+
     
 
     --black:hsl(299, 54%, 0%);
@@ -28,9 +29,8 @@
     --deep-red:hsl(358, 54%, 40%);
     --dk-red:hsl(0, 75%, 29%);
     --grey:hsl(0 0% 69%);
-   
+   */
 
-}
 
 
 /* Icons Google font google fonts*/
