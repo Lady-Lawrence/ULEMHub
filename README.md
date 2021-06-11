@@ -23,7 +23,7 @@ html, css, PHPStorm, Github, Vercel zoom for communication.
 
 ## **Result+Demo**
 
-For my the ULEMHub website, we divided the page.
+For  the ULEMHub website, we divided the page.
 
  We started with writing the html and css we then shared out the outcome and results, we then added css code snippets that each page ,as color, type, search engine feature. and buttons
  
