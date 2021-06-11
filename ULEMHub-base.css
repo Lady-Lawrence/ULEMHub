@@ -1,0 +1,68 @@
+/* Ulem HUb weg page global css*/
+
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+/* color varablies */
+:root {
+    
+
+    --black:hsl(299, 54%, 0%);
+    --white:hsl(0, 0%, 100%);
+    --dk-grey:hsl(186, 0%, 31%);
+    --grey:hsl(0, 0%, 60%);
+    --dk-orange:hsl(15, 82%, 40%);
+    --orange:hsl(27, 89%, 47%);
+    --grey:hsl(108, 1%, 76%);
+    --deep-red:hsl(358, 54%, 40%);
+    --dk-red:hsl(0, 75%, 29%);
+    --grey:hsl(0 0% 69%);
+    
+
+
+}
+
+
+/* Icons Google font google fonts*/
+
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+rel="stylesheet">
+
+/* font family 'Roboto' with text wgt of 100 300 500 700 use * link below
+and include in html header section*/
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+
+/*the font family: below css property below
+font-family: 'Roboto', sans-serif;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
