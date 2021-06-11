@@ -1,6 +1,6 @@
 # Demo Day #2 Outline
 ## Code for Real
-##Members
+## Members
 
 #### Jasmine Bien-Aime
 #### Lady Lawrence
@@ -28,7 +28,6 @@ For my the ULEMHub website, we divided the page.
  We started with writing the html and css we then shared out the outcome and results, we then added css code snippets that each page ,as color, type, search engine feature. and buttons
  
 **Jasmine**
-
 index.htlm 
 ULEMHub.css
 News.html
