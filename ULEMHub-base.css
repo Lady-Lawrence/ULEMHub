@@ -48,6 +48,41 @@ and include in html header section*/
 font-family: 'Roboto', sans-serif;*/
 
 
+
+
+
+/* search bar */
+
+input[type=text] {
+    background-color: hsl(0 0% 100%);
+    border-color: hsl(0 0% 69%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px 10px 1px 12px;
+    margin: 10px;
+    width: 592px;
+    height: 44px;
+}
+
+/*sumbmit button next to search bar */
+
+input[type=submit] {
+    background-color: #ba3c12;
+    border-color: hsl(0 0% 69%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 8px 15px;
+    margin: 10px;
+    height: 40px;
+
+}
+
+
+
+
+
 /* nav bar */
 
 .main-nav{
@@ -59,9 +94,6 @@ font-family: 'Roboto', sans-serif;*/
     width: 900px;
 
 }
-
-
-
 
 
 
