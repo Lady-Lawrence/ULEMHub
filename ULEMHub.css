@@ -71,6 +71,23 @@ input[type=submit] {
 
 }
 
+nav a{
+    color: black;
+
+}
+
+a:hover {
+    color: #8f0b20;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+
+}
+
+
+
+
 /*start of the main*/
 
 .main-section{
